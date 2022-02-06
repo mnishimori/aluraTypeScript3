@@ -13,3 +13,4 @@ export function domInjector(seletor) {
         });
     };
 }
+//# sourceMappingURL=dom-injector.js.map
